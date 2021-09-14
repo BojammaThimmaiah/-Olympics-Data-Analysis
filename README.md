@@ -1,4 +1,7 @@
 # -Olympics-Data-Analysis
+This repository is having all the codes used in Python for AIML internship by Elite Techno Groups.
+
+
 This is the Summer Olympics Data Analysis assignment.
 Here i have solved the questions using dataframe functions.
 Analysis is made easy to understand by using graphs.

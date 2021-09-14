@@ -1,5 +1,4 @@
-# -Olympics-Data-Analysis
-This repository is having all the codes used in Python for AIML internship by Elite Techno Groups.
+# -Olympics-Data-Analysis  This repository is having all the codes used in Python for AIML internship by Elite Techno Groups.
 
 
 This is the Summer Olympics Data Analysis assignment.

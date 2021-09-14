@@ -22,3 +22,4 @@ The questions answered here are:
 8.Which sport is having most female gold medalists?(Top 5)
 
 About me:
+My name is Bojamma Thimmaiah M, I'm currently pursuing Bachelor of Engineering in Computer Science and Engineering at Coorg Institute of Technology.I am an final year student and this is my first Python Project and i am doing online internship on Python for AI/ML in Elite Techno Groups.
